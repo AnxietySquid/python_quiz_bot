@@ -4,4 +4,5 @@
 
 ## Quick start
 __*/start*__ - for a button to appear  
-Answer the questions
+Answer the questions  
+![изображение](https://github.com/user-attachments/assets/0cf1bcc4-c904-4c81-9cb1-188c9cc55e4c)
