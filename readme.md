@@ -1,8 +1,7 @@
+# Simple python quiz using telegram bot
 ## Bot link:  
 *https://t.me/boppity_bop_bot*
 
-## Commands:
-Команды все те же самые, что из урока  
-Добавил вывод результата в конце и добавил вопросов. При правильном ответе так же выводится выбранный ответ  
-__*/start*__ - Чтобы появилась кнопка  
-Далее просто отвечать
+## Quick start
+__*/start*__ - for a button to appear  
+Answer the questions
